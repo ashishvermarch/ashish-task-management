@@ -16,7 +16,9 @@ I have made this application as optimised as possible, worked on performance opt
 - Implemented data persistance using local storage.
 - Given color, made responsive.
 
-I have also deployed this application to the vercel domain, you can access it by cliking on this link - https://ashish-task-management.vercel.app/
+I have also deployed this application to the vercel domain, you can access it by cliking on this link - https://ashish-task-management.vercel.app/.
+
+The github link for this project is - https://github.com/ashishvermarch/ashish-task-management
 
 Please feel free to reach out in any case.
 Thanks and regards
